@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NewmontRiskTool/static/css/main.7577d335.chunk.css",
+    "main.js": "/NewmontRiskTool/static/js/main.44a2f297.chunk.js",
+    "main.js.map": "/NewmontRiskTool/static/js/main.44a2f297.chunk.js.map",
+    "runtime-main.js": "/NewmontRiskTool/static/js/runtime-main.bc731b40.js",
+    "runtime-main.js.map": "/NewmontRiskTool/static/js/runtime-main.bc731b40.js.map",
+    "static/css/2.4d337f89.chunk.css": "/NewmontRiskTool/static/css/2.4d337f89.chunk.css",
+    "static/js/2.2dda89f3.chunk.js": "/NewmontRiskTool/static/js/2.2dda89f3.chunk.js",
+    "static/js/2.2dda89f3.chunk.js.map": "/NewmontRiskTool/static/js/2.2dda89f3.chunk.js.map",
+    "index.html": "/NewmontRiskTool/index.html",
+    "precache-manifest.50580256d8fb897cbc5e34b03064606d.js": "/NewmontRiskTool/precache-manifest.50580256d8fb897cbc5e34b03064606d.js",
+    "service-worker.js": "/NewmontRiskTool/service-worker.js",
+    "static/css/2.4d337f89.chunk.css.map": "/NewmontRiskTool/static/css/2.4d337f89.chunk.css.map",
+    "static/css/main.7577d335.chunk.css.map": "/NewmontRiskTool/static/css/main.7577d335.chunk.css.map",
+    "static/js/2.2dda89f3.chunk.js.LICENSE": "/NewmontRiskTool/static/js/2.2dda89f3.chunk.js.LICENSE",
+    "static/media/font-awesome.css": "/NewmontRiskTool/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc731b40.js",
+    "static/css/2.4d337f89.chunk.css",
+    "static/js/2.2dda89f3.chunk.js",
+    "static/css/main.7577d335.chunk.css",
+    "static/js/main.44a2f297.chunk.js"
+  ]
+}
